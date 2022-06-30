@@ -1,0 +1,18 @@
+//program to enter base and height of a triangle and find its area.
+#include<iostream>
+
+using namespace std;
+int main(){
+	int base, height;
+	float area;
+	
+	cout<<"Enter base: ";
+	cin>>base;
+	cout<<"Enter height: ";
+	cin>>height;
+	
+	area = 0.5*base*height;
+	cout<<"Area is: "<<area;
+	
+	return 0;
+}
