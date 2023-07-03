@@ -1,2 +1,2 @@
 # Knowledge_House
-C++ ramming
+Learning C++ from 'Knowledge House'
